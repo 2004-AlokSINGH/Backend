@@ -13,8 +13,8 @@ This repository is a collection of various backend projects developed using the 
 ### Projects Included:
 1. **User Authentication System**: JWT-based authentication, password hashing, and role-based access control.
 2. **RESTful API for E-Commerce**: CRUD operations, product management, user profiles, shopping cart functionality.
-3. **Real-time Chat Application**: WebSocket integration for real-time communication between users.
-4. **Social Media API**: User management, posts, likes, and comment features, along with notifications.
+3. **Real-time Tracking**: WebSocket integration for real-time tracking between users.
+4. **Chess Game**: Chess game using WebSocket and chess.js.
 5. **Blog Platform Backend**: Creating and managing articles, categories, tags, and user comments.
 6. **Task Management System**: Project, task, and team member management with real-time updates.
    
